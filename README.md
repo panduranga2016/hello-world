@@ -1,2 +1,2 @@
 # hello-world
-I like a programming a lot!
+I like programming a lot!
